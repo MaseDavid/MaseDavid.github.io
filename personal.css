@@ -1,0 +1,16 @@
+nav{font-family: 'Sansita Swashed', cursive;
+    color: blue;
+}
+h3{
+    font-family:  Georgia;
+}
+
+body{
+    color: grey;
+    background-image: url("/Mase.jpg");
+    background-color: aquamarine;
+}
+footer{
+    margin-top: 150px;
+   
+}
